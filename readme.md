@@ -23,5 +23,6 @@ celery -A tasks worker --loglevel=info
 
 reference :- 
 https://docs.celeryproject.org/en/stable/getting-started/introduction.html
+
 https://www.youtube.com/watch?v=fg-JfZBetpM
 
